@@ -1,50 +1,79 @@
-🌐 Portfólio – Expedito Farias de Melo
+# Portfólio — Expedito Farias de Melo
 
-Meu portfólio profissional como Desenvolvedor Front-End, criado para apresentar meus projetos, habilidades e informações de contato.
-O objetivo é demonstrar meu domínio em HTML, CSS, JavaScript, responsividade e construção de interfaces modernas.
+Este projeto apresenta meu portfólio profissional como Desenvolvedor Front-End, reunindo meus principais trabalhos, habilidades e informações de contato.  
+O site foi criado com foco em performance, responsividade e um layout moderno, utilizando HTML semântico, CSS avançado e interações leves em JavaScript.
 
-🚀 Tecnologias Utilizadas
+---
 
-HTML5
+## 🌐 Deploy
 
-CSS3 (Flexbox, Grid, responsividade)
+Acesse o portfólio online em:  
+👉 **https://expeditoz.github.io/portfolio/**
 
-JavaScript
+---
 
-TailwindCSS (em projetos externos vinculados)
+## 🚀 Tecnologias Utilizadas
 
-Vite
+### **HTML5**
+- Estrutura semântica organizada  
+- Conteúdo otimizado para acessibilidade  
+- Navegação clara e bem definida  
 
-Lucide Icons
+### **CSS3**
+- Layout totalmente responsivo  
+- Uso de **Flexbox** e **Grid Layout**  
+- Efeitos modernos, animações leves e tema escuro  
+- Componentização visual com boa hierarquia  
 
-📁 Projetos Apresentados
+### **JavaScript**
+- Interações no menu e nos filtros do portfólio  
+- Manipulação leve do DOM  
+- Scripts organizados e fáceis de manter  
 
-Este portfólio exibe alguns dos meus principais repositórios públicos:
+### **Lucide Icons**
+- Ícones modernos renderizados dinamicamente  
+- Carregamento leve e sem dependências pesadas  
 
-FlexBlog – Layout responsivo focado em Flexbox
+---
 
-WildBeast – Projeto completo utilizando CSS Grid
+## 📁 Estrutura Geral
 
-BikCraft – Interface moderna com HTML, CSS e boas práticas
+- `/index.html` — página principal  
+- `/css/style.css` — estilos principais  
+- `/js/main.js` — scripts e interações  
+- `/assets/fotos` — imagens dos projetos e avatar  
+- `/assets/` — demais arquivos utilizados  
 
-Cardápio Online – Aplicação usando Vite + TailwindCSS
+---
 
-📌 Seções do Portfólio
+## 📚 Objetivos do Projeto
 
-Home – Apresentação pessoal
+- Criar um portfólio moderno e visualmente agradável  
+- Demonstrar domínio de **HTML + CSS + JavaScript**  
+- Exibir meus projetos reais do GitHub  
+- Organizar minha apresentação profissional para vagas de estágio e júnior  
+- Construir uma página rápida, acessível e fácil de navegar  
 
-Serviços – Áreas em que atuo
+---
 
-Portfólio – Destaque dos meus projetos
+## ✅ Melhorias Possíveis
 
-Sobre mim – Mini bio e habilidades
+- Criar páginas internas detalhadas para cada projeto  
+- Adicionar microinterações avançadas  
+- Implementar modo **dark/light**  
+- Incluir formulário de contato funcional  
 
-Contato – Formas de me encontrar (GitHub, LinkedIn e e-mail)
+---
 
-📬 Contato
+## 📌 Observações
 
-GitHub: https://github.com/ExpeditoZ
+O código foi escrito de maneira limpa, organizada e sem excesso de efeitos, priorizando performance e legibilidade.  
+Os layouts foram pensados para manter consistência visual, responsividade e boa estrutura para apresentação profissional.
 
-LinkedIn: https://www.linkedin.com/in/expedito-farias-de-melo
+---
 
-E-mail: expedito.farias.melo08@gmail.com
+## 📬 Contato
+
+- **GitHub:** https://github.com/ExpeditoZ  
+- **LinkedIn:** https://www.linkedin.com/in/expedito-farias-de-melo  
+- **E-mail:** expedito.farias.melo2003@gmail.com
